@@ -1,0 +1,1 @@
+# Multiple Platform C Compilation Test
